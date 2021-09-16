@@ -31,10 +31,10 @@ The **Vanilla C4** library contains the following easy to use elements:
 
 # Setup in diagrams.net / draw.io
 ## Public online version
-You can start really easy! Just click the following link and start using **Vanilla C4** library in *diagrams.net* online application: https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/eatHikeCodeRepeat-Work/vanilla-c4/main/Vanilla-C4-Library.xml&splash=0
+You can start really easy! Just click the following link and start using **Vanilla C4** library in *diagrams.net* online application: https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/eatHikeCodeRepeat-Work/vanilla-c4/master/Vanilla-C4-Library.xml&splash=0
 
 ## Self-hosted
-Simply append `?clibs=Uhttps://raw.githubusercontent.com/eatHikeCodeRepeat-Work/vanilla-c4/main/Vanilla-C4-Library.xml&splash=0` to the URL of you self-hosted diagrams.net / draw.io installation.
+Simply append `?clibs=Uhttps://raw.githubusercontent.com/eatHikeCodeRepeat-Work/vanilla-c4/master/Vanilla-C4-Library.xml&splash=0` to the URL of you self-hosted diagrams.net / draw.io installation.
 
 ## Atlassian Confluence Plugin
 For usage inside of the Confluence plugin, follow the steps described below:
