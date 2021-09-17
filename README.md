@@ -20,7 +20,7 @@ This is a fork of the original [**Hycom-C4**](https://github.com/hycomsa/hycom-c
 The **Vanilla C4** library contains the following easy to use elements:
 - Person (internal and external)
 - Software system (internal and external)
-- Container (5 different types: generic, data, message bus, web browser and mobile app)
+- Container (4 different types: generic, data, web browser and mobile app)
 - Component
 - Relationship (with description and technology, with generic description and plain)
 - Scope boundary (software system and container)
